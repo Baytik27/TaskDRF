@@ -1,0 +1,5 @@
+Django
+djangorestframework
+pygments
+psycopg2-binary
+python-decouple
